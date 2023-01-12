@@ -1,3 +1,6 @@
+## How to use API
+Echo method: GET /echo/{str} return string
+
 ## Micronaut 3.8.0 Documentation
 
 - [User Guide](https://docs.micronaut.io/3.8.0/guide/index.html)
